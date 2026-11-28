@@ -69,6 +69,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | Black Friday 2026: 50% OFF lifetime, $19.99 to $9.99, no code needed (Nov 18 - Dec 4, 2026) |
 | [Wins](https://wins.cool/pricing) | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts for switching between windows. | Black Friday 2026: 40% OFF new licenses and eligible update renewals with code BF_26 (Nov 11 - Dec 1, 2026). Single $19.99 to $11.99, Pro $39.99 to $23.99, X $49.99 to $29.99. |
 | [Enconvo](https://enconvo.com/pricing) | Native AI assistant and agent for Mac that automates tasks across your apps, dictates, searches your documents, and runs cloud AI or local models. | Black Friday 2026: 30% OFF every Lifetime license (Standard $59 to $41.30, Premium $119 to $83.30, Teams $159 to $111.30) and 30% OFF the first payment of an Enconvo Cloud plan, applied at checkout, no code needed (Nov 20 - Dec 7, 2026) |
+| [The Cyber Instructor](https://learn.thecyberinstructor.com/) | Cybersecurity training with a live AI for Cybersecurity bootcamp (AI red teaming, securing LLM apps, agents, governance) and a self-paced subscription. | Black Friday 2026: 30% OFF everything with code BF30, including the 6-week live AI for Cybersecurity bootcamp ($2,099 to $1,469) and TCI Pro (Nov 23 - Nov 30, 2026; bootcamp price until Dec 4, 2026) |
 
 ## Submit a deal
 
